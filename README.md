@@ -32,12 +32,6 @@ pip install tensorflow numpy matplotlib
 
 This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with a test set of 10,000 images.
 
-## Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulyana-yezubchyk/)](https://www.linkedin.com/in/ulyana-yezubchyk/)
-[![Email](https://img.shields.io/badge/Email-ulyaa.071@gmail.com-green.svg)](mailto:your_email@example.com)
-
-[![Back to Top](https://img.shields.io/badge/-Back_to_Top-blue?style=flat-square)](#Fashion-MNIST-Neural-Network-Classifier)
-
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulyana-yezubchyk/)](https://www.linkedin.com/in/ulyana-yezubchyk/)
